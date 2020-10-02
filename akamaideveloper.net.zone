@@ -4,7 +4,7 @@ akamaideveloper.net.	172800	IN	NS	a26-66.akam.net.
 akamaideveloper.net.	172800	IN	NS	a7-67.akam.net.
 akamaideveloper.net.	172800	IN	NS	a16-64.akam.net.
 akamaideveloper.net.	172800	IN	NS	a22-65.akam.net.
-akamaideveloper.net.	900	IN	SOA	akamaideveloper.net. hostmaster.akamaideveloper.net. 1601591277 900 300 604800 180
+akamaideveloper.net.	900	IN	SOA	akamaideveloper.net. hostmaster.akamaideveloper.net. 1601591299 900 300 604800 180
 bc.akamaideveloper.net.	7200	IN	CNAME	bc.akamaideveloper.com.
 javier.akamaideveloper.net.	300	IN	CNAME	www.akamaideveloper.net.edgesuite-staging.net.
 newjavier.akamaideveloper.net.	300	IN	CNAME	www.akamaideveloper.net.edgesuite-staging.net.
@@ -15,4 +15,4 @@ thirdpartytlstest.akamaideveloper.net.	10	IN	CNAME	world-tour.akamaideveloper.ne
 _acme-challenge.thirdpartytlstest.akamaideveloper.net.	300	IN	TXT	"HLv9NfF7-Beq-wd4jsZ9lVR1ddiDwf4PNlu2KbKgbrg"
 *.world-tour.akamaideveloper.net.	7200	IN	CNAME	world-tour.akamaideveloper.net.edgesuite-staging.net.
 javier-20200920-1630.akamaideveloper.net.	300	IN	CNAME	www.akamaideveloper.net.edgesuite-staging.net.
-javier-20201001-2157.akamaideveloper.net.	300	IN	CNAME	www.akamaideveloper.net.edgesuite-staging.net. ; thi is a comment
+javier-20201001-2318.akamaideveloper.net.	300	IN	CNAME	www.akamaideveloper.net.edgesuite-staging.net. ; thi is a comment
